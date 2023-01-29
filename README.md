@@ -40,12 +40,12 @@ npm installl
 ng serve
 ```
 - **Etapa 5: Acessar o aplicativo**
+Visite
+```
+ http://localhost:4200/ 
 
 ```
-Visite http://localhost:4200/ no seu navegador da Web.
-
-```
-
+no seu navegador da Web.
 ## Iniciando o projeto backend com Docker
 
 Nota: Caso não tenha docker instalado, utilize o README.MD dentro da pasta /backend para iniciar a API
@@ -81,12 +81,14 @@ docker compose up
 ```
 
 - **Etapa 5: Acessar o aplicativo**
+Visite 
+```
+http://localhost:8000/
+
 
 ```
-Visite http://localhost:8000/ no seu navegador da Web.
-
+ no seu navegador da Web.
 Nota: Certifique-se de ter o docker em seu sistema antes de executar os comandos acima.
-```
 
 # Screenshots
 
