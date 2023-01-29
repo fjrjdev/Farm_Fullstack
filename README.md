@@ -44,7 +44,6 @@ ng serve
 ```
 Visite http://localhost:4200/ no seu navegador da Web.
 
-Nota: Certifique-se de ter o docker em seu sistema antes de executar os comandos acima.
 ```
 
 ## Iniciando o projeto backend com Docker
