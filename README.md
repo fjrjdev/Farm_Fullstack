@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este projeto consiste na implementação de um sistema de CRUD (Create, Read, Update e Delete) para fazendas utilizando Angular. A aplicação está baseada em um back-end utilzando Django, que é executado por padrão em http://localhost:8000
+Este repositório contém uma aplicação web que permite o gerenciamento de fazendas, com as operações básicas de CRUD (Criar, Ler, Atualizar e Deletar). Ela é desenvolvida utilizando Angular como front-end e Django como back-end, e executada por padrão em http://localhost:8000. O objetivo é oferecer uma solução fácil e eficiente para administrar fazendas.
 
 # Uso
 
