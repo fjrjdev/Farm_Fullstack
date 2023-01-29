@@ -6,6 +6,11 @@ Este projeto consiste na implementação de um sistema de CRUD (Create, Read, Up
 
 A aplicação permite que você crie, leia, atualize e delete fazendas. As operações de CRUD podem ser realizadas através da interface web.
 
+# Repositorios
+
+- [Front End](https://github.com/fjrjdev/Farm_Front)
+- [Backend End](https://github.com/fjrjdev/Farm_Backend)
+
 ## Iniciando o projeto frontend
 
 Requerimentos:
@@ -76,3 +81,10 @@ Visite http://localhost:8000/ no seu navegador da Web.
 
 Nota: Certifique-se de ter o docker em seu sistema antes de executar os comandos acima.
 ```
+
+# Screenshots
+
+![Create Farm](https://i.imgur.com/5oWG3KX.png)
+![List Farm](https://i.imgur.com/gTYpkPD.png)
+![Detail, Edit and Exclude Farm](https://i.imgur.com/gQhwmMe.png)
+![Edit Farm](https://i.imgur.com/I2oaOsG.png)
